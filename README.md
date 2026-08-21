@@ -11,20 +11,8 @@ Daily Data Structures & Algorithms practice as I prepare for placements and tech
 - Cover core topics: Arrays, Strings, Searching, Sorting, Linked Lists, Recursion, and basic Data Structures
 - Track progress toward being technical-round ready for junior developer interviews
 
----
 
-## 🗂️ Folder Structure
-```
-dsa-practice/
-│
-├── Arrays/
-├── Strings/
-├── Searching/
-├── Sorting/
-├── LinkedList/
-├── Recursion/
-└── Misc/
-```
+
 
 ---
 
@@ -36,6 +24,7 @@ dsa-practice/
 ---
 
 ## 📈 Why This Repo Exists
+
 As a BCA student preparing for entry-level developer roles, I'm building this repo to:
 - Practice problem-solving consistently
 - Prepare for coding rounds at IT companies
