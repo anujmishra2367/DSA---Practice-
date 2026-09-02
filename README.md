@@ -1,8 +1,26 @@
 # DSA---Practice-
 
 # 📘 DSA Practice
+A collection of Data Structures and Algorithms (DSA) problems and solutions, mainly based on GeeksforGeeks Problem of the Day (POTD).
 
-Daily Data Structures & Algorithms practice as I prepare for placements and technical interviews (TCS, Wipro, Cognizant, HCLTech, and other entry-level developer roles).
+This repository is created to practice DSA consistently, improve problem-solving skills, and keep all solutions organized in one place.
+
+📚 Topics Covered
+Arrays
+Strings
+Searching
+Sorting
+Linked List
+Stack
+Queue
+Recursion
+Hashing
+Trees
+Graphs
+Dynamic Programming
+Greedy Algorithms
+And more...
+
 
 ---
 
@@ -19,7 +37,7 @@ Daily Data Structures & Algorithms practice as I prepare for placements and tech
 ## 🛠️ Languages Used
 ![Java](https://img.shields.io/badge/-Java-red)
 ![Python](https://img.shields.io/badge/-Python-blue)
-![C](https://img.shields.io/badge/-C-lightgrey)
+![C++ ](https://img.shields.io/badge/-C-lightgrey)
 
 ---
 
@@ -32,4 +50,9 @@ As a BCA student preparing for entry-level developer roles, I'm building this re
 
 ---
 
+🔥 Keep Learning
+
+Solve. Learn. Improve. Repeat.
+
+This repository is a collection of my DSA practice and learning progress.
 <p align="center"><i>One problem a day, building toward placement-ready skills.</i></p>
