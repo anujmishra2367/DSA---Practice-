@@ -1,0 +1,22 @@
+class Solution {
+  public:
+    int minOperation(int n) {
+        // Abhi Code Karo
+        // Solve Using Greedy Approach
+        int cnt = 0;
+
+        while(n > 0) {
+            if(n % 2 == 1) {    // n is odd case
+                n--;
+            }
+            else {    // n is even case 
+                n /= 2;
+            }
+            cnt++;
+        }
+        return cnt;
+    }
+};
+
+// TC => O(N)
+// SC => O(1)
