@@ -1,0 +1,18 @@
+class Solution {
+  public:
+    int minSquares(int n, int m) {
+        // code here
+        if(n==0 || m==0) return 0;
+        if(n==1) return m;
+        if(m==1) return n;
+        int mn = min(n,m);
+        int mx = max(m,n);
+
+        int ans=0;
+
+        ans= (mx/mn) + minSquares(mn,mx%mn);
+
+
+        return ans;
+    }
+};
